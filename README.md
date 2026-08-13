@@ -1,6 +1,18 @@
 # Stepper Motor Control System (Arduino)
 
-This project is a microcontroller-based system designed for precise control of a 28BYJ-48 stepper motor using an Arduino Uno. It features dynamic speed adjustment via hardware buttons and real-time visual speed indication through an LED array. Originally developed as a university coursework project in automated information processing systems.
+This project is a microcontroller-based system designed for precise control of a 28BYJ-48 stepper motor using an Arduino Uno. It features dynamic speed adjustment via hardware buttons and real-time visual speed indication through an LED array. Originally developed as my university coursework project in automated information processing systems.
+
+<div style="overflow-x: auto; padding: 10px 0;">
+  <img src="images/20241218_191400.jpg" width="500" style="margin-right: 10px;" />
+</div>
+<table>
+  <tr>
+    <td><img src="images/28BYJ-48-driver_and_motor_bb.png" width="200"></td>
+    <td><img src="images/Курс3БлокСхемаНепрозр.png" width="200"></td>
+    <td><img src="images/20241218_191259.jpg" width="200"></td>
+    <td><img src="images/20241218_191313.jpg" width="200"></td>
+  </tr>
+</table>
 
 ## Key Features
 
